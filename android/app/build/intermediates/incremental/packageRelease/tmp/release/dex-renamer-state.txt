@@ -1,0 +1,4 @@
+#Mon Jul 01 12:40:08 BRT 2019
+base.0=/home/dpc2/Documentos/CIndrate/App/frontend/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex

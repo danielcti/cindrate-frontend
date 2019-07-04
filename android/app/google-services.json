@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448423086571",
+    "firebase_url": "https://cindrate-a621b.firebaseio.com",
+    "project_id": "cindrate-a621b",
+    "storage_bucket": "cindrate-a621b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448423086571:android:0386637984d6402c",
+        "android_client_info": {
+          "package_name": "com.cindrata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448423086571-chkpeh2f9ojro3heti1kenkr812epdqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4i40vOCt_1eR_npqF3zMr6TagPNSbfGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448423086571-chkpeh2f9ojro3heti1kenkr812epdqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448423086571-3dgbg0rh0ir0jruaimbgiedklv2pc42e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.CIn.CIndrate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
